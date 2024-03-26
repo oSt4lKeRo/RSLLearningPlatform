@@ -1,0 +1,24 @@
+{
+  "module": [
+    {
+      "number": "Знакомство",
+      "status": "open"
+    },
+    {
+      "number": "Дом",
+      "status": "in process"
+    },
+    {
+      "number": "Природа",
+      "status": "close"
+    },
+    {
+      "number": "Растения",
+      "status": "finish"
+    },
+    {
+      "number": "Семья",
+      "status": "open"
+    }
+  ]
+}
